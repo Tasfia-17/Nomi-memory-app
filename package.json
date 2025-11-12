@@ -1,0 +1,19 @@
+{
+  "name": "nomi-memory-app",
+  "version": "1.0.0",
+  "description": "Your new memory companion.",
+  "main": "App.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.0.0",
+    "motion": "^10.18.0",
+    "lucide-react": "^0.417.0",
+    "sonner": "2.0.3",
+    "react-hook-form": "7.55.0"
+  }
+}
